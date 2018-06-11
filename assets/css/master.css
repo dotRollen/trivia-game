@@ -1,0 +1,11 @@
+div .questions {
+	display: none;
+}
+
+div .time {
+	display: none;
+}
+
+.answer:hover {
+	color: blue;
+}
